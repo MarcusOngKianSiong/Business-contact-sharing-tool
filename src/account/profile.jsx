@@ -9,6 +9,7 @@ import {
   Navigate,
   useHistory
 } from "react-router-dom";
+
 export default function Profile(prop){
 
     // replace with prop.[]
@@ -46,3 +47,4 @@ export default function Profile(prop){
         </form>
     )
 }
+
